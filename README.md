@@ -67,14 +67,14 @@ the present era (1900-2020) or from the far future (beyond 2020).
 
 ```bash python branching.py```
 
-## Example Outputs
-  
-  "Greetings! What is your year of origin? 2023
-  Far out, that's the future!!"
+#### Example Outputs
+  ```
+  Greetings! What is your year of origin? 2023
+  Far out, that's the future!!
   or
-  "Greetings! What is your year of origin? 1969
-  That's totally the present!"
-
+  Greetings! What is your year of origin? 1969
+  That's totally the present!
+```
 
 
 ### collection.py
@@ -87,13 +87,13 @@ Charles Dickens died in 1870.
 
 ```bash python collection.py```
 
-## Output
-  
+#### Output
+  ```
   Charles Dickens died in 1870.
   William Thackeray died in 1863.
   Anthony Trollope died in 1882.
   Gerard Manley Hopkins died in 1889.
-
+```
 
 ### grading.py
 
@@ -101,19 +101,19 @@ Charles Dickens died in 1870.
 Write a program that will average 3 numeric exam grades, return an average test score, a corresponding letter grade,
 and a message stating whether the student is passing.
 
-# Average   Grade
-# 90+   A
-# 80-89 B
-# 70-79 C
-# 60-69 D
-# 0-59  F
+### Average   Grade
+### 90+   A
+### 80-89 B
+### 70-79 C
+### 60-69 D
+### 0-59  F
 
 **Usage:**
 
 ```bash python grading.py```
 
-## Example Outputs
-  
+#### Example Outputs
+  ```
   Exams: 89, 90, 90
   Average: 90
   Grade: A
@@ -123,7 +123,7 @@ and a message stating whether the student is passing.
   Average: 33
   Grade: F
   Student is failing.
-
+```
 ### pirate.py
 
 **Description:** 
@@ -133,14 +133,14 @@ A pirate showed up in your room suddenly,ask pirate the password, print output u
 
 ```bash python pirate.py```
 
-## Example Outputs
-  
+#### Example Outputs
+  ```
   Hello, possible pirate! What's the password? Arrr!
   Go away, pirate.
   or
   Hello, possible pirate! What's the password? pass
   Greetings, hater of pirates!
-
+```
 
 ### waitingTimeCalculator.py
 
@@ -151,12 +151,12 @@ You are in DMV to renew your License but time is essense, ask the current hour a
 
 ```bash python waitingTimeCalculator.py```
 
-## Example Output
-  
+#### Example Output
+  ```
   What is the current time (in hours 0-23)? 12
   How many hours do you want to wait? 6
   The time after waiting will be: 18:00
-
+```
 
 ### alarm.py
 
@@ -167,9 +167,15 @@ You need to get up early, ask the current hour and ask how long want to wait, ca
 
 ```bash python alarm.py```
 
-## Example Output
-  
+#### Example Output
+  ```
   What time is it now? 14
   What is the number of hours to wait? 6
   The alarm will go off at: 20:00
+```
 
+## Contribution
+If you would like to contribute to this repository, please fork the project and submit a pull request with your improvements or additions.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
